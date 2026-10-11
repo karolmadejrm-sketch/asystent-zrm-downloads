@@ -1,0 +1,40 @@
+name: Asystent ZRM - aktualizacje
+
+on:
+  release:
+    types: [published, edited]
+  workflow_dispatch:
+  # Handles the case where release assets were uploaded after publishing.
+  schedule:
+    - cron: '23 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: asystent-zrm-update-manifests
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Generate update manifests from release assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_manifests.py
+      - name: Commit updated manifests
+        shell: bash
+        run: |
+          git add -- updates/stable.json updates/beta.json
+          if git diff --cached --quiet; then
+            echo 'No manifest changes'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh application release manifests'
+          git push
