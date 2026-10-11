@@ -29,7 +29,7 @@ jobs:
       - name: Commit updated manifests
         shell: bash
         run: |
-          git add -- updates/stable.json updates/beta.json
+          git add -A -- .
           if git diff --cached --quiet; then
             echo 'No manifest changes'
             exit 0
