@@ -37,7 +37,7 @@ def github_releases():
 def asset_for(releases, platform):
     for release in releases:
         tag = release.get('tag_name', '')
-        if not re.fullmatch(r'v?\d+\.\d+\.\d+(?:[-.][\w.-]+)?', tag):
+        if not re.fullmatch(r'(?:v\.?)?\d+\.\d+\.\d+(?:[-.][\w.-]+)?', tag, flags=re.I):
             continue
         candidates = []
         for a in release.get('assets', []):
