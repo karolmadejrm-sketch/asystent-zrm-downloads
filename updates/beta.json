@@ -1,8 +1,8 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "beta",
-  "publishedAt": "2026-10-13T05:01:02+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.42",
+  "publishedAt": "2026-10-14T20:53:28+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.43",
   "channels": {
     "stable": {
       "windows": {
@@ -15,12 +15,12 @@
         "prerelease": true
       },
       "android": {
-        "version": "1.5.42-r1",
-        "build": "v1.5.42",
-        "description": "Asystent ZRM 1.5.42-r1 - Android Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.42/Asystent-ZRM-Android-1.5.42-r1.apk",
-        "sha256": "640ac22e21007d7e80b235c7adf2abcd26a7db6389b091cffcb16f5f780e3b45",
-        "bytes": 92763602,
+        "version": "1.5.43-r1",
+        "build": "v1.5.43",
+        "description": "Asystent ZRM 1.5.43-r1 - Android Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.43/Asystent-ZRM-Android-1.5.43-r1.apk",
+        "sha256": "690ada68c3efc8c3a48548b26b5b85098b03b1a865cdf7658a6e04cc63b219d1",
+        "bytes": 92874264,
         "prerelease": true,
         "signature": "verify-before-install"
       }
