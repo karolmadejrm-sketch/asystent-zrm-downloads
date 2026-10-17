@@ -1,25 +1,25 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "beta",
-  "publishedAt": "2026-10-17T18:10:10+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.53",
+  "publishedAt": "2026-10-17T18:39:26+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.54",
   "channels": {
     "stable": {
       "windows": {
-        "version": "1.5.53-r1",
-        "build": "v1.5.53",
-        "description": "Asystent ZRM 1.5.53 — wznawianie transferu Windows Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.53/Asystent-ZRM-Windows-1.5.53-r1.zip",
-        "sha256": "731480adbc53d3d7ef8083181018edf0bec528b08a626fc82f523ad6c33e9213",
-        "bytes": 14907772,
+        "version": "1.5.54-r1",
+        "build": "v1.5.54",
+        "description": "Asystent ZRM 1.5.54 — nowe O aplikacji Android i Windows Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.54/Asystent-ZRM-Windows-1.5.54-r1.zip",
+        "sha256": "f6b21a5a2e025ff13fe6388b5f3d4fb0b6cee850e0dfd133d20e2251ecfbcb05",
+        "bytes": 14907689,
         "prerelease": true
       },
       "android": {
-        "version": "1.5.53-r1",
-        "build": "v1.5.53",
-        "description": "Asystent ZRM 1.5.53 — wznawianie transferu Windows Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.53/Asystent-ZRM-Android-1.5.53-r1.apk",
-        "sha256": "f33bc192375575e44753f67f2a3eb21523b871320f80c882b9ecbf7c10790ad8",
+        "version": "1.5.54-r1",
+        "build": "v1.5.54",
+        "description": "Asystent ZRM 1.5.54 — nowe O aplikacji Android i Windows Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.54/Asystent-ZRM-Android-1.5.54-r1.apk",
+        "sha256": "6d04ff6b7507b987f8a47844413915baced3f6b1e0256a9fc8d52aa9a901b4fc",
         "bytes": 100764104,
         "prerelease": true,
         "signature": "verify-before-install"
