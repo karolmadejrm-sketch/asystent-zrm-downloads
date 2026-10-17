@@ -72,9 +72,7 @@ def asset_for(releases, platform):
     return None, None
 
 def build_manifest(releases, channel):
-    subset = releases if channel == 'beta' else [
-        r for r in releases if not r.get('prerelease')
-    ]
+    subset = [r for r in releases if bool(r.get('prerelease')) == (channel == 'beta')]
     windows, wr = asset_for(subset, 'windows')
     android, ar = asset_for(subset, 'android')
     if not windows and not android:
