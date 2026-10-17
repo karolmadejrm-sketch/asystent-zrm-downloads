@@ -1,26 +1,26 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-10-17T22:20:37+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-stable-r4",
+  "publishedAt": "2026-10-17T22:48:31+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-stable-r5",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.0-r4",
-        "build": "v2.0.0-stable-r4",
-        "description": "Asystent ZRM 2.0 — stabilna r4, bez hasła",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r4/Asystent-ZRM-Windows-2.0.0-r4.zip",
-        "sha256": "861e01115737c90427ead545a7ad32e9aa8a943810229646e92d4d6576d8f1ea",
-        "bytes": 13210725,
+        "version": "2.0.0-r5",
+        "build": "v2.0.0-stable-r5",
+        "description": "Asystent ZRM 2.0 — stabilna r5, intuicyjne przypadki",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r5/Asystent-ZRM-Windows-2.0.0-r5.zip",
+        "sha256": "8d570d166ac28e29d6a2e7033803a3279a61db9b99ac72651dc6139791a0b94d",
+        "bytes": 13213014,
         "prerelease": false
       },
       "android": {
-        "version": "2.0.0-r4",
-        "build": "v2.0.0-stable-r4",
-        "description": "Asystent ZRM 2.0 — stabilna r4, bez hasła",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r4/Asystent-ZRM-Android-2.0.0-r4.apk",
-        "sha256": "60c929e3553a20c2ff16572076846d72d602018ca33eff52a1392030d6f15e21",
-        "bytes": 93667108,
+        "version": "2.0.0-r5",
+        "build": "v2.0.0-stable-r5",
+        "description": "Asystent ZRM 2.0 — stabilna r5, intuicyjne przypadki",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r5/Asystent-ZRM-Android-2.0.0-r5.apk",
+        "sha256": "4e7c487bdc168b86cb0dc33d01f19b9c1077499660338756af03dc8dd8cf4c18",
+        "bytes": 93671204,
         "prerelease": false,
         "signature": "verify-before-install"
       }
