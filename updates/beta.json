@@ -1,25 +1,25 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "beta",
-  "publishedAt": "2026-10-17T07:07:14+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.49",
+  "publishedAt": "2026-10-17T08:17:19+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.50",
   "channels": {
     "stable": {
       "windows": {
-        "version": "1.5.49-r1",
-        "build": "v1.5.49",
-        "description": "Asystent ZRM 1.5.49 — automatyczne aktualizacje Windows Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.49/Asystent-ZRM-Windows-1.5.49-r1.zip",
-        "sha256": "57b47b6c49de94c4a3da95cb727bbdf7bd49872744b532be2100b40b5d750e21",
-        "bytes": 14905836,
+        "version": "1.5.50-r1",
+        "build": "v1.5.50",
+        "description": "Asystent ZRM 1.5.50 — test aktualizacji Windows Bluetooth Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.50/Asystent-ZRM-Windows-1.5.50-r1.zip",
+        "sha256": "83c1f9909bcc4ed39f2c95f3b95bd580a9e92e870856f989da57c063226d72a6",
+        "bytes": 14906011,
         "prerelease": true
       },
       "android": {
-        "version": "1.5.49-r1",
-        "build": "v1.5.49",
-        "description": "Asystent ZRM 1.5.49 — automatyczne aktualizacje Windows Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.49/Asystent-ZRM-Android-1.5.49-r1.apk",
-        "sha256": "df786babdb62f726db9dd6fe06e1ce7a671965315d72c67219bacbce386e9852",
+        "version": "1.5.50-r1",
+        "build": "v1.5.50",
+        "description": "Asystent ZRM 1.5.50 — test aktualizacji Windows Bluetooth Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.50/Asystent-ZRM-Android-1.5.50-r1.apk",
+        "sha256": "45472d352f7644a09dd7f68d9aeb4c89887c455f71897a3979cf17f0d1ad3c3d",
         "bytes": 100760008,
         "prerelease": true,
         "signature": "verify-before-install"
