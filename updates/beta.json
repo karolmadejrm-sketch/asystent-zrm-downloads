@@ -1,25 +1,25 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "beta",
-  "publishedAt": "2026-10-17T13:23:44+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.52",
+  "publishedAt": "2026-10-17T18:10:10+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v1.5.53",
   "channels": {
     "stable": {
       "windows": {
-        "version": "1.5.52-r1",
-        "build": "v1.5.52",
-        "description": "Asystent ZRM 1.5.52 — test aktualizacji Windows 1.5.51 przez Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.52/Asystent-ZRM-Windows-1.5.52-r1.zip",
-        "sha256": "dfb02481a761f3f503a67ce0252399141f7f1e005b1484616587001304890a3f",
-        "bytes": 14906563,
+        "version": "1.5.53-r1",
+        "build": "v1.5.53",
+        "description": "Asystent ZRM 1.5.53 — wznawianie transferu Windows Bluetooth Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.53/Asystent-ZRM-Windows-1.5.53-r1.zip",
+        "sha256": "731480adbc53d3d7ef8083181018edf0bec528b08a626fc82f523ad6c33e9213",
+        "bytes": 14907772,
         "prerelease": true
       },
       "android": {
-        "version": "1.5.52-r1",
-        "build": "v1.5.52",
-        "description": "Asystent ZRM 1.5.52 — test aktualizacji Windows 1.5.51 przez Bluetooth Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.52/Asystent-ZRM-Android-1.5.52-r1.apk",
-        "sha256": "7aafd7a41a7f9d29593fbcbca2178a206b864bd4cca9e7e1362fefe806808574",
+        "version": "1.5.53-r1",
+        "build": "v1.5.53",
+        "description": "Asystent ZRM 1.5.53 — wznawianie transferu Windows Bluetooth Beta",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v1.5.53/Asystent-ZRM-Android-1.5.53-r1.apk",
+        "sha256": "f33bc192375575e44753f67f2a3eb21523b871320f80c882b9ecbf7c10790ad8",
         "bytes": 100764104,
         "prerelease": true,
         "signature": "verify-before-install"
