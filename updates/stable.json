@@ -1,24 +1,24 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-10-18T21:11:42+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-2.0.1",
+  "publishedAt": "2026-10-18T21:14:59+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.1",
   "channels": {
     "stable": {
       "windows": {
         "version": "2.0.1",
-        "build": "v2.0.0-2.0.1",
-        "description": "Asystent ZRM 2.0 — stabilna 2.0.1, podpowiedzi KMCR i link do wersji HTML",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-2.0.1/Asystent-ZRM-Windows-2.0.1.zip",
+        "build": "v2.0.1",
+        "description": "Asystent ZRM 2.0.1 — stabilna",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.1/Asystent-ZRM-Windows-2.0.1.zip",
         "sha256": "f5eac27ed0268d3e8c7ccde7760c426f84ef2d89a5936c9b1edb4999f8d6c47e",
         "bytes": 13235630,
         "prerelease": false
       },
       "android": {
         "version": "2.0.1",
-        "build": "v2.0.0-2.0.1",
-        "description": "Asystent ZRM 2.0 — stabilna 2.0.1, podpowiedzi KMCR i link do wersji HTML",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-2.0.1/Asystent-ZRM-Android-2.0.1.apk",
+        "build": "v2.0.1",
+        "description": "Asystent ZRM 2.0.1 — stabilna",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.1/Asystent-ZRM-Android-2.0.1.apk",
         "sha256": "3ad665b8d0e28165b4d5addc8b16899c3893f1ca30936ed1b3e5e197fb108a24",
         "bytes": 93695853,
         "prerelease": false,
