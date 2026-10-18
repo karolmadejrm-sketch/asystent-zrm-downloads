@@ -1,26 +1,26 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-10-18T18:34:47+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-stable-r12",
+  "publishedAt": "2026-10-18T21:11:42+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-2.0.1",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.0-r12",
-        "build": "v2.0.0-stable-r12",
-        "description": "Asystent ZRM 2.0 — stabilna r12, 29 opisów i wygodne pola wyboru w KMCR",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r12/Asystent-ZRM-Windows-2.0.0-r12.zip",
-        "sha256": "7fd4add12818d73284a62efd013938e142e661fb2ba1ee93dc7375c645240fd8",
-        "bytes": 13233608,
+        "version": "2.0.1",
+        "build": "v2.0.0-2.0.1",
+        "description": "Asystent ZRM 2.0 — stabilna 2.0.1, podpowiedzi KMCR i link do wersji HTML",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-2.0.1/Asystent-ZRM-Windows-2.0.1.zip",
+        "sha256": "f5eac27ed0268d3e8c7ccde7760c426f84ef2d89a5936c9b1edb4999f8d6c47e",
+        "bytes": 13235630,
         "prerelease": false
       },
       "android": {
-        "version": "2.0.0-r12",
-        "build": "v2.0.0-stable-r12",
-        "description": "Asystent ZRM 2.0 — stabilna r12, 29 opisów i wygodne pola wyboru w KMCR",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r12/Asystent-ZRM-Android-2.0.0-r12.apk",
-        "sha256": "d9294207d220b26e9952bb711f5ea6df22348e111cdae59dbd5ce55e6e552b97",
-        "bytes": 93691757,
+        "version": "2.0.1",
+        "build": "v2.0.0-2.0.1",
+        "description": "Asystent ZRM 2.0 — stabilna 2.0.1, podpowiedzi KMCR i link do wersji HTML",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-2.0.1/Asystent-ZRM-Android-2.0.1.apk",
+        "sha256": "3ad665b8d0e28165b4d5addc8b16899c3893f1ca30936ed1b3e5e197fb108a24",
+        "bytes": 93695853,
         "prerelease": false,
         "signature": "verify-before-install"
       }
