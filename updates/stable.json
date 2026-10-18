@@ -1,25 +1,25 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-10-18T10:34:37+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-stable-r9",
+  "publishedAt": "2026-10-18T11:07:53+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0-stable-r10",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.0-r9",
-        "build": "v2.0.0-stable-r9",
-        "description": "Asystent ZRM 2.0 — stabilna r9, informacja prawna i RODO",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r9/Asystent-ZRM-Windows-2.0.0-r9.zip",
-        "sha256": "7f377d69e753f015299702941df2ad2b24a95997f9a84ea35355637800273c3b",
-        "bytes": 13221753,
+        "version": "2.0.0-r10",
+        "build": "v2.0.0-stable-r10",
+        "description": "Asystent ZRM 2.0 — stabilna r10, szybki skaner leków z KMCR",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r10/Asystent-ZRM-Windows-2.0.0-r10.zip",
+        "sha256": "4d3631a4e214b6587a0249036ad6cbaa9e09928a92386965b06e89d17eef0774",
+        "bytes": 13222607,
         "prerelease": false
       },
       "android": {
-        "version": "2.0.0-r9",
-        "build": "v2.0.0-stable-r9",
-        "description": "Asystent ZRM 2.0 — stabilna r9, informacja prawna i RODO",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r9/Asystent-ZRM-Android-2.0.0-r9.apk",
-        "sha256": "11682be79171837f437ba1bb38e15821afaa1b4438ec6aed44028f944403cb2c",
+        "version": "2.0.0-r10",
+        "build": "v2.0.0-stable-r10",
+        "description": "Asystent ZRM 2.0 — stabilna r10, szybki skaner leków z KMCR",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0-stable-r10/Asystent-ZRM-Android-2.0.0-r10.apk",
+        "sha256": "39caea1038df1a3b09e625f3252a4f8fccc91ffd24be76d073d87737496b0ede",
         "bytes": 93679469,
         "prerelease": false,
         "signature": "verify-before-install"
