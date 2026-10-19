@@ -1,25 +1,25 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-10-18T22:02:23+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.2",
+  "publishedAt": "2026-10-19T07:05:06+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.3",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.2",
-        "build": "v2.0.2",
-        "description": "Asystent ZRM 2.0 — stabilna 2.0.2, podpowiedzi dopasowane do pełnych zdań KMCR",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.2/Asystent-ZRM-Windows-2.0.2.zip",
-        "sha256": "9acbe2c7ed1d845f1bdb240be2aee44d24f062146241e3f8126afe4f0165e5d1",
-        "bytes": 13238473,
+        "version": "2.0.3",
+        "build": "v2.0.3",
+        "description": "Asystent ZRM 2.0.3 — naprawiona wymiana przypadków Bluetooth",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.3/Asystent-ZRM-Windows-2.0.3.zip",
+        "sha256": "30cefc8b653aefd45dc573318321c4d914bacb45989ec73ab898fd754cc81a1f",
+        "bytes": 13238478,
         "prerelease": false
       },
       "android": {
-        "version": "2.0.2",
-        "build": "v2.0.2",
-        "description": "Asystent ZRM 2.0 — stabilna 2.0.2, podpowiedzi dopasowane do pełnych zdań KMCR",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.2/Asystent-ZRM-Android-2.0.2.apk",
-        "sha256": "de68fb9348d76dffd424e937b7165e688f9cdca0d88ee7e417c66f5a7ad21afa",
+        "version": "2.0.3",
+        "build": "v2.0.3",
+        "description": "Asystent ZRM 2.0.3 — naprawiona wymiana przypadków Bluetooth",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.3/Asystent-ZRM-Android-2.0.3.apk",
+        "sha256": "a734d4a2b1a60e900940a6452f2362963e96c68599e2418f897d58e01b00c245",
         "bytes": 93695853,
         "prerelease": false,
         "signature": "verify-before-install"
