@@ -1,26 +1,26 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "beta",
-  "publishedAt": "2026-10-17T19:51:31+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.0",
+  "publishedAt": "2026-11-06T00:38:13+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.4",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.0-r1",
-        "build": "v2.0.0",
-        "description": "Asystent ZRM 2.0 — Android i Windows Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0/Asystent-ZRM-Windows-2.0.0-r1.zip",
-        "sha256": "5d495e2592470f500b622e3714cf056ced619e0d5061a7e4638b516fcc68a6af",
-        "bytes": 14886330,
+        "version": "2.0.4",
+        "build": "v2.0.4",
+        "description": "Asystent ZRM 2.0.4 — testowe poprawki bezpieczeństwa i zapisu",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.4/Asystent-ZRM-Windows-2.0.4.zip",
+        "sha256": "bcad2e3b60ffe0bb2ca8b4392cc8ab903315587c981f36e0c8d6745a27f5ffc5",
+        "bytes": 13240742,
         "prerelease": true
       },
       "android": {
-        "version": "2.0.0-r1",
-        "build": "v2.0.0",
-        "description": "Asystent ZRM 2.0 — Android i Windows Beta",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.0/Asystent-ZRM-Android-2.0.0-r1.apk",
-        "sha256": "c6f4edcba5c37b70d27b155e09b37e310a326cf5b6f7b12b69d7f03918062f03",
-        "bytes": 100723144,
+        "version": "2.0.4",
+        "build": "v2.0.4",
+        "description": "Asystent ZRM 2.0.4 — testowe poprawki bezpieczeństwa i zapisu",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.4/Asystent-ZRM-Android-2.0.4.apk",
+        "sha256": "bbb3892ed46d47dd0380bf0a94d408539af41b9aaa29f7fa0c0e6ee228087cb0",
+        "bytes": 93700107,
         "prerelease": true,
         "signature": "verify-before-install"
       }
