@@ -1,26 +1,26 @@
 {
   "schema": "asystent-zrm-update-v1",
   "channel": "stable",
-  "publishedAt": "2026-11-06T06:44:25+00:00",
-  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.5",
+  "publishedAt": "2026-11-11T22:40:55+00:00",
+  "releasePage": "https://github.com/karolmadejrm-sketch/asystent-zrm-downloads/releases/tag/v2.0.6",
   "channels": {
     "stable": {
       "windows": {
-        "version": "2.0.5",
-        "build": "v2.0.5",
-        "description": "Asystent ZRM 2.0.5 — chroniony magazyn i uporządkowane wydanie",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.5/Asystent-ZRM-Windows-2.0.5.zip",
-        "sha256": "3c9f55851e16676b08ea4d5c1e3918abcc7a6bf46df309021422c25472ff503e",
-        "bytes": 13082397,
+        "version": "2.0.6",
+        "build": "v2.0.6",
+        "description": "Asystent ZRM 2.0.6 — bez hasła i z leksykonem leków",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.6/Asystent-ZRM-Windows-2.0.6.zip",
+        "sha256": "55760faf5ab6f384b7b8b33a1105fa17e315e5f60f6466de8f10fcb6fa4dfb9c",
+        "bytes": 13243835,
         "prerelease": false
       },
       "android": {
-        "version": "2.0.5",
-        "build": "v2.0.5",
-        "description": "Asystent ZRM 2.0.5 — chroniony magazyn i uporządkowane wydanie",
-        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.5/Asystent-ZRM-Android-2.0.5.apk",
-        "sha256": "c63041dd5aef096f72beed266706f4922b3add625c6bca248662036482d972b9",
-        "bytes": 93540279,
+        "version": "2.0.6",
+        "build": "v2.0.6",
+        "description": "Asystent ZRM 2.0.6 — bez hasła i z leksykonem leków",
+        "downloadUrl": "https://pomoc-w-zrm.netlify.app/updates/download/v2.0.6/Asystent-ZRM-Android-2.0.6.apk",
+        "sha256": "51add6518b269e7e38f82d4ed408c8a58acc758d89ea830b79f357ae5169961c",
+        "bytes": 93700098,
         "prerelease": false,
         "signature": "verify-before-install"
       }
